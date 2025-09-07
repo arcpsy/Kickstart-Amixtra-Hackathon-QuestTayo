@@ -1,4 +1,4 @@
 # Kickstart-Amixtra-Hackathon-QuestTayo
 
 Repository:
-https://lovable.dev/projects/c4ac0f57-ee5e-4802-8e29-f5a3bf88e4a9?magic_link=mc_1efc6897-0698-4594-a698-f25611e91e00
+https://lovable.dev/projects/675eb850-22e6-43c4-a9d3-832724a896a2?magic_link=mc_3b135dde-2f0f-4476-b128-0f6a8b7889a7
